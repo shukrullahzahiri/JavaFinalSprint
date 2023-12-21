@@ -1,0 +1,52 @@
+[
+    {
+    "SprintGroupNumber":"5",
+    "FirstName":"Shukrullah",
+    "LastName":"Zahiri",
+    "StudentHobbies" : ["WeightLifting","Footbal","Coding"],
+    "BirthDate": "1994-10-19",
+    "FavoriteTeam":"ManCity",
+    "Gender":"Male",
+    "Salary":"100000"
+    },
+    {
+    "SprintGroupNumber":"5",
+    "FirstName":"Benjamin",
+    "LastName":"Alex",
+    "StudentHobbies" : ["RoboMaster","Hockey","Coding"],
+    "BirthDate": "1984-01-01",
+    "FavoriteTeam":"Canada soccer team",
+    "Gender":"Male",
+    "Salary":"110000"
+    },
+    {  
+    "SprintGroupNumber":"5",
+    "FirstName":"Andre",
+    "LastName":"Anaa",
+    "StudentHobbies" : ["Tennis","Footbal","Swimming"],
+    "BirthDate": "1990-10-01",
+    "FavoriteTeam":"Growlers",
+    "Gender":"Male",
+    "Salary":"60000"
+    },
+    {
+    "SprintGroupNumber":"5",
+    "FirstName":"Artem",
+    "LastName":"Cola",
+    "StudentHobbies" : ["Boxer","Footbal","Coding"],
+    "BirthDate": "1988-8-23",
+    "FavoriteTeam":"ManUnited",
+    "Gender":"Male",
+    "Salary":"105000"
+    },
+    {
+    "SprintGroupNumber":"5",
+    "FirstName":"Colby",
+    "LastName":"Zama",
+    "StudentHobbies" : ["Wrestler","Footbal","Developer"],
+    "BirthDate": "2000-11-21",
+    "FavoriteTeam":"ManUnited",
+    "Gender":"Female",
+    "Salary":"200000"
+    }
+]
